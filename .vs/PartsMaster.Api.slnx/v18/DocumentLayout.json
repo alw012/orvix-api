@@ -1,0 +1,629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\controllers\\activitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\controllers\\activitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\partsmaster.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\partsmaster.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\vehiclecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\vehiclecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\vehicleyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\vehicleyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\vehiclemake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\vehiclemake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\vehicleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\vehicleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\services\\activitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\services\\activitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\partsmaster.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\partsmaster.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\services\\iactivitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\services\\iactivitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\storedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\storedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531195239_FixPricePrecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartsMaster.Api\\Migrations\\20260531195239_FixPricePrecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\migrations\\20260529184422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\migrations\\20260529184422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartsMaster.Api\\Models\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\migrations\\20260531205009_addstorefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\migrations\\20260531205009_addstorefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\migrations\\20260531200743_fixpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\migrations\\20260531200743_fixpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\migrations\\20260531200923_fixpriceprecision2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\migrations\\20260531200923_fixpriceprecision2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\migrations\\20260531194656_adduserseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\migrations\\20260531194656_adduserseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\migrations\\20260601195628_addactivitylogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\migrations\\20260601195628_addactivitylogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|c:\\users\\lenovo\\source\\repos\\partsmaster.api\\partsmaster.api\\migrations\\20260604162742_addvehiclesandcompanyprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E4193-B2C3-38B6-6293-BEA4228D7464}|PartsMaster.Api\\PartsMaster.Api.csproj|solutionrelative:partsmaster.api\\migrations\\20260604162742_addvehiclesandcompanyprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Services\\JwtService.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Services\\JwtService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:25:28.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActivityLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\ActivityLogsController.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Controllers\\ActivityLogsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\ActivityLogsController.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Controllers\\ActivityLogsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:17:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\UserDtos.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\UserDtos.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\UserDtos.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\UserDtos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:35:09.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:29:45.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\PartsController.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Controllers\\PartsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\PartsController.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Controllers\\PartsController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:15:04.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\Part.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\Part.cs*",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\Part.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:08:33.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:25:20.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:30:36.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PartsMaster.Api",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\PartsMaster.Api.csproj",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\PartsMaster.Api.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\PartsMaster.Api.csproj",
+              "RelativeToolTip": "PartsMaster.Api\\PartsMaster.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-06T19:19:40.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\User.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:35:00.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:00:01.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T19:08:35.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Controllers\\StoresController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Controllers\\StoresController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAmwJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:21:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Program.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwFsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:45:54.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VehicleMake.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleMake.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\VehicleMake.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleMake.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\VehicleMake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:19:16.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VehicleModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleModel.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\VehicleModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleModel.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\VehicleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:20:56.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VehicleYear.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleYear.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\VehicleYear.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleYear.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\VehicleYear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:22:10.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VehicleCode.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleCode.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\VehicleCode.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleCode.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\VehicleCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:25:14.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260604162742_AddVehiclesAndCompanyPrice.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260604162742_AddVehiclesAndCompanyPrice.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Migrations\\20260604162742_AddVehiclesAndCompanyPrice.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260604162742_AddVehiclesAndCompanyPrice.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Migrations\\20260604162742_AddVehiclesAndCompanyPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:27:42.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T17:37:14.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\LoginDto.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:31:44.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VehicleEngine.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleEngine.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\VehicleEngine.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\VehicleEngine.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\VehicleEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:23:18.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ActivityLogService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Services\\ActivityLogService.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Services\\ActivityLogService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Services\\ActivityLogService.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Services\\ActivityLogService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:08:31.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\Store.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\Store.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:03:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PartsMaster.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\PartsMaster.Api.csproj",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\PartsMaster.Api.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\PartsMaster.Api.csproj",
+              "RelativeToolTip": "PartsMaster.Api\\PartsMaster.Api.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T16:58:59.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IActivityLogService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Services\\IActivityLogService.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Services\\IActivityLogService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Services\\IActivityLogService.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Services\\IActivityLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:06:08.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20260601195628_AddActivityLogs.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260601195628_AddActivityLogs.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Migrations\\20260601195628_AddActivityLogs.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260601195628_AddActivityLogs.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Migrations\\20260601195628_AddActivityLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:56:28.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\appsettings.json",
+              "RelativeToolTip": "PartsMaster.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-29T17:44:13.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\ActivityLog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:50:22.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260531195239_FixPricePrecision.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531195239_FixPricePrecision.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Migrations\\20260531195239_FixPricePrecision.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531195239_FixPricePrecision.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Migrations\\20260531195239_FixPricePrecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:52:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StoreDtos.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\StoreDtos.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\StoreDtos.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\StoreDtos.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\StoreDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:48:22.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260531205009_AddStoreFields.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531205009_AddStoreFields.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Migrations\\20260531205009_AddStoreFields.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531205009_AddStoreFields.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Migrations\\20260531205009_AddStoreFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:50:10.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260531200743_FixPricePrecision.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531200743_FixPricePrecision.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Migrations\\20260531200743_FixPricePrecision.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531200743_FixPricePrecision.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Migrations\\20260531200743_FixPricePrecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:07:43.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260531200923_FixPricePrecision2.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531200923_FixPricePrecision2.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Migrations\\20260531200923_FixPricePrecision2.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531200923_FixPricePrecision2.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Migrations\\20260531200923_FixPricePrecision2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:09:23.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260531194656_AddUserSeed.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531194656_AddUserSeed.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Migrations\\20260531194656_AddUserSeed.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260531194656_AddUserSeed.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Migrations\\20260531194656_AddUserSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:46:56.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:18:58.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260529184422_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260529184422_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Migrations\\20260529184422_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Migrations\\20260529184422_InitialCreate.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Migrations\\20260529184422_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:44:23.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PartsMaster.Api\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PartsMaster.Api\\PartsMaster.Api\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "PartsMaster.Api\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:38:43.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
