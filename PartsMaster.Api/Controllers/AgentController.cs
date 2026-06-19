@@ -120,52 +120,76 @@ namespace PartsMaster.Api.Controllers
 
             int storeId = device.StoreId;
 
-            // تحميل القطع الحالية للمحل (مفهرسة برقم القطعة لسرعة المطابقة)
-            var existing = await _context.Parts
-                .Where(p => p.StoreId == storeId)
-                .ToDictionaryAsync(p => p.PartNumber, p => p);
-
-            int added = 0, updated = 0;
-
-            foreach (var item in dto.Items)
+            try
             {
-                if (string.IsNullOrWhiteSpace(item.PartNumber)) continue;
+                // تحميل القطع الحالية للمحل. نستخدم تجميعاً آمناً يتحمّل تكرار رقم القطعة
+                // (نأخذ أول سجل لكل رقم، تفادياً لانهيار عند وجود أرقام مكرّرة سابقة).
+                var existingList = await _context.Parts
+                    .Where(p => p.StoreId == storeId)
+                    .ToListAsync();
 
-                if (existing.TryGetValue(item.PartNumber, out var part))
+                var existing = new Dictionary<string, Part>();
+                foreach (var p in existingList)
+                    if (!existing.ContainsKey(p.PartNumber))
+                        existing[p.PartNumber] = p;
+
+                // ندمج العناصر الواردة حسب رقم القطعة (آخر كمية تفوز) لتفادي تكرار الإدراج.
+                var incoming = new Dictionary<string, decimal>();
+                foreach (var item in dto.Items)
                 {
-                    // تحdيث الكمية فقط — لا نلمس Price ولا CompanyPrice (أمان المخزون)
-                    part.Quantity = (int)item.Quantity;
-                    updated++;
+                    if (string.IsNullOrWhiteSpace(item.PartNumber)) continue;
+                    incoming[item.PartNumber.Trim()] = item.Quantity;
                 }
-                else
+
+                int added = 0, updated = 0;
+
+                foreach (var kv in incoming)
                 {
-                    // قطعة جديدة: رقم + كمية فق-ط، الأسعار تبقى صفر يحددها المحل لاحقاً
-                    _context.Parts.Add(new Part
+                    if (existing.TryGetValue(kv.Key, out var part))
                     {
-                        PartNumber = item.PartNumber,
-                        Quantity = (int)item.Quantity,
-                        Type = "",
-                        Price = 0,
-                        CompanyPrice = 0,
-                        StoreId = storeId
-                    });
-                    added++;
+                        // تحديث الكمية فقط — لا نلمس Price ولا CompanyPrice (أمان المخزون)
+                        part.Quantity = (int)kv.Value;
+                        updated++;
+                    }
+                    else
+                    {
+                        _context.Parts.Add(new Part
+                        {
+                            PartNumber = kv.Key,
+                            Quantity = (int)kv.Value,
+                            Type = "",
+                            Price = 0,
+                            CompanyPrice = 0,
+                            StoreId = storeId
+                        });
+                        added++;
+                    }
                 }
+
+                // تحديث حالة الجهاز
+                device.IsOnline = true;
+                device.LastSeen = DateTime.UtcNow;
+
+                await _context.SaveChangesAsync();
+
+                return Ok(new
+                {
+                    message = "تمت مزامنة المخزون بنجاح",
+                    received = dto.Items.Count,
+                    added,
+                    updated
+                });
             }
-
-            // تحديث حالة الجهاز
-            device.IsOnline = true;
-            device.LastSeen = DateTime.UtcNow;
-
-            await _context.SaveChangesAsync();
-
-            return Ok(new
+            catch (Exception ex)
             {
-                message = "تمت مزامنة المخزون بنجاح",
-                received = dto.Items.Count,
-                added,
-                updated
-            });
+                // رسالة خطأ واضحة بدل 500 صامت (تساعد على التتبّع).
+                return StatusCode(500, new
+                {
+                    message = "تعذّر حفظ المخزون",
+                    error = ex.Message,
+                    inner = ex.InnerException?.Message
+                });
+            }
         }
     }
 
