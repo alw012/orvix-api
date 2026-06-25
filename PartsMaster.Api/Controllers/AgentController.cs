@@ -157,7 +157,7 @@ namespace PartsMaster.Api.Controllers
                         {
                             PartNumber = kv.Key,
                             Quantity = (int)kv.Value,
-                            Type = "",
+                            Type = System.Text.RegularExpressions.Regex.IsMatch(kv.Key, "[a-zA-Z]") ? "تجاري" : "أصلي",
                             Price = 0,
                             CompanyPrice = 0,
                             StoreId = storeId
