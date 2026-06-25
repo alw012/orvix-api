@@ -60,7 +60,7 @@ namespace PartsMaster.Api.Controllers
                 {
                     City = g.Key,
                     TotalQuantity = g.Sum(r => r.Quantity),
-                    Original = g.Where(r => r.Type == "أصلي").ToList(),
+                    Original = g.Where(r => r.Type == "أصلي" || string.IsNullOrEmpty(r.Type)).ToList(),
                     Commercial = g.Where(r => r.Type == "تجاري").ToList()
                 })
                 .OrderBy(g => g.City)
@@ -115,7 +115,7 @@ namespace PartsMaster.Api.Controllers
             {
                 PartNumber = searchTerm,
                 City = city,
-                Original = results.Where(r => r.Type == "أصلي").ToList(),
+                Original = results.Where(r => r.Type == "أصلي" || string.IsNullOrEmpty(r.Type)).ToList(),
                 Commercial = results.Where(r => r.Type == "تجاري").ToList()
             });
         }
